@@ -1,0 +1,55 @@
+Introdução
+
+> DREs
+> Apoio a tomada de decisão
+> Aumento em 25%
+> scrapy
+> Fórmulas e variaveis
+> Otimização da fórmula
+> Limites das variaveis
+> Algoritmo aplicado para otimização
+> Validade da otimização
+> Forecasting
+> Modelos de forecasting
+> conclusao do objetivo e resultados
+> estrutura do artigo
+
+Revisão bibliografica
+
+> DREs
+> scrapy
+> Fórmulas e variaveis
+> Otimização e algoritmo usado
+> Forecasting
+> Modelos de forecasting
+> Media movel
+> regressão linear
+> sarima
+> trabalhos correlatos
+
+Desenvolvimento
+
+> scrapy
+> analise exploratória
+> construção da função de otimização
+> construção dos 3 modelos
+> execução do forecasting dos 3 modelos (2 anos)
+> execucao do forecasting do lucro do periodo e das variaveis no modelo mais "acertivo" (2 anos)
+> execução da fórmula do lucro do periodo com base no forecast de 2 anos
+> otimização do forecasting do modelo mais "acertivo"
+> validação se o valor otimizado se encontra dentro da taxa de erro do forecast das variaveis e do lucro do periodo
+
+Resultados
+
+> tempo para otimização
+> tabelas comparativas com resultados dos modelos temporais
+> grafico comparativo dos resultados dos modelos temporais
+> resultado do forecast das variaveis do DREs
+> resultado da otimização do forecast
+> o quanto o resultado da otimizacao do forecast se encaixa na margem de erro
+
+conclusões
+
+> insights com series temporais
+> otimização
+> tomada de decisão
